@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase12Reco", "Clase12Reco\Clase12Reco.csproj", "{78A91CD0-60D7-42A1-8FC7-D22B350556FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A91CD0-60D7-42A1-8FC7-D22B350556FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A91CD0-60D7-42A1-8FC7-D22B350556FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A91CD0-60D7-42A1-8FC7-D22B350556FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A91CD0-60D7-42A1-8FC7-D22B350556FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A07A88-417C-4F0F-A7B3-D607B4EDD6C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\bin\Debug\net6.0\Clase12Reco.exe
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\bin\Debug\net6.0\Clase12Reco.deps.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\bin\Debug\net6.0\Clase12Reco.runtimeconfig.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\bin\Debug\net6.0\Clase12Reco.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\bin\Debug\net6.0\Clase12Reco.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\refint\Clase12Reco.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\Clase12Reco.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase12Reco\Clase12Reco\obj\Debug\net6.0\ref\Clase12Reco.dll
